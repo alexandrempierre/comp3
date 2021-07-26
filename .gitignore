@@ -1,0 +1,4 @@
+*.out
+*/makefile
+*.pdf
+.vscode/
